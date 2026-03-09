@@ -14,7 +14,7 @@ Optimization for different tasks like material characterization, synthesis, and 
 This repository includes links, code, scripts, and data to generate the figures in a paper. All the required installation and import of python packages are provided at the top of each notebooks. If you are using Colab, please !pip install the required packages first.
 
 ### Requirements
-Information on the dataset is provided in the main paper and notebooks. Link to download the datasets is provided in the notebook.
+Information on the dataset is provided in the main paper and notebooks in the Data Folder. Link to download the datasets is provided in the notebook.
 
 ### Support
 This work (A.B) was supported by the University of Tennessee startup funding. The authors acknowledge the use of facilities and instrumentation at the UT Knoxville Institute for Advanced Materials and Manufacturing (IAMM) and the Shull Wollan Center (SWC) supported in part by the National Science Foundation Materials Research Science and Engineering Center program through the UT Knoxville Center for Advanced Materials and Manufacturing (DMR-2309083). This effort (datasets) is supported by the Center for Nanophase Materials Sciences (CNMS), which is a US Department of Energy, Office of Science User Facility at Oak Ridge National Laboratory. This work (H.F) was supported by Japan Science and Technology Agency (JST) as part of Adopting Sustainable Partnerships for Innovative Research Ecosystem (ASPIRE), Grant Number JPMJAP2312. 
